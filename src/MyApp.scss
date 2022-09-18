@@ -1,0 +1,10 @@
+h1.greeting { 
+    color: rgb(0, 130, 101); 
+    span { 
+        color: rgb(0, 220, 172); 
+        text-decoration: underline;
+    }
+    span.purple {
+        color: rgb(155, 57, 103); 
+    }
+}
